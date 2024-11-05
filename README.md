@@ -18,7 +18,7 @@ Paginba web personal, se podría tomar como principio de portafolio.
 
 #### Codigo fuente de validación:
 
-```
+```js
 //validacion de formulario
 const form = document.getElementById('contactForm');
 
@@ -35,6 +35,5 @@ form.addEventListener('submit', funtion(event)){
 
     }
 }
-
-```js
+```
 
